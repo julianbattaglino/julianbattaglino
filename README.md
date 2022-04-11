@@ -16,6 +16,8 @@ I am Julian Battaglino
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
+![WordPress Expert](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianbattaglino&show_icons=true&theme=radical)
 
