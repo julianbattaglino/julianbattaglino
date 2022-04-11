@@ -20,6 +20,8 @@ I am Julian Battaglino
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianbattaglino&show_icons=true&theme=radical)
 
 
